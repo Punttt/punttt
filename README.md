@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hej, jag heter Pontus Johansson
 
-<!--
-**Punttt/punttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar Webbutveckling och webbdesign med fokus på responsiv design och akademisk noggrannhet. Jag gillar att strukturera kod pedagogiskt och dokumentera med tydliga kommentarer.
 
-Here are some ideas to get you started:
+## 🎯 Mål
+- Bli en skicklig webbutvecklare med styrka för design
+- Skapa kod som är både korrekt, elegant och lätt att förstå
+- Lära mig mer om programmering inom webben
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Färdigheter
+- Semantisk HTML och CSS
+- Flexbox och responsiv layout
+- Grundlig programmering inom JavaScript
+- Pedagogisk dokumentation i kod
+- Akademisk referenshantering
+
+## 📫 Kontakt
+- 🌐 [Min GitHub-profil](https://github.com/punttt)
+
