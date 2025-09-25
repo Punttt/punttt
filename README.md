@@ -16,7 +16,7 @@ Jag studerar Webbutveckling och webbdesign med fokus på responsiv design och ak
 
 ## 📫 Kontakt
 - 🌐 [Min GitHub-profil](https://github.com/punttt)
-- E-post: pojo2001@student.miun.se
+- [Maila mig](mailto:pojo2001@student.miun.se)
 
 
 
